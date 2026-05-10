@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "it-IT",
-    baseUrl: "sfera-di-chrono.local",
+    baseUrl: "giorgio-pozzi-gioppo.github.io/sfera-di-chrono",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
