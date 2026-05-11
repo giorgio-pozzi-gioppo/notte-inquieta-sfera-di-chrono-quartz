@@ -1,11 +1,7 @@
----
-title: Accesso Memoria Sfera di Chrono
----
+Da mettere fuori dal Vault
 
-# Accesso Memoria Sfera di Chrono
-
-ARCHIVIO PARZIALE RECUPERATO  
-Provenienza: incerta. Possibile stirpe di Chrono.  
+ARCHIVIO PARZIALE RECUPERATO
+Provenienza: incerta. Possibile stirpe di Chrono.
 Integrità compromessa.
 
 A un primo controllo i frammenti si riferiscono a non identificati momenti del passato.
@@ -22,13 +18,4 @@ Non è chiaro se la sfera permetta di ricordare un passato dimenticato o induca 
 
 [La frase seguente risulta ripetuta 17 volte nei registri corrotti]
 
-> Ythia esisteva già.
-
-## Frammenti recuperati
-
-- [[NOTA 988735.2]]
-- [[NOTA 629512.1]]
-- [[NOTA 996381.4]]
-- [[NOTA 433671.4]]
-- [[NOTA 749937.5]]
-- [[NOTA 569374.3]]
+“Ythia esisteva già.”
